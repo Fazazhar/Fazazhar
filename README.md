@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hello, I'm Putra Farrel Azhar
 
-<!--
-**Fazazhar/Fazazhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Scientist | GIS Specialist
 
-Here are some ideas to get you started:
+I focus on **data-driven solutions** in **causal inference** and **spatial analysis**, combining **machine learning** and **geospatial analytics** to solve urban and policy challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 Current Projects
+- **From Trolley Stops to Walkable Blocks**  
+  Using **spatial analysis** and **semantic segmentation** to improve walkability around trolley stops in San Diego.  
+  [Repo](https://github.com/Fazazhar/Urban-Walkability-GIS-Study)
+
+- **EV Charging Stations & Electric Vehicle Uptake**  
+  Analyzing the **causal relationship** between charging infrastructure and EV adoption using **instrumental variables**.  
+  [Repo](https://github.com/Fazazhar/EV-Adoption-Causal-Analysis)
+
+## ⚙️ Skills
+- **Languages:** R, Python, SQL  
+- **Frameworks:** Tidymodels, Scikit-learn, TensorFlow  
+- **GIS:** ArcGIS, Geopandas, Folium  
+- **Visualization:** ggplot2, Matplotlib
+
+![Fazazhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fazazhar&show_icons=true&theme=tokyonight)
