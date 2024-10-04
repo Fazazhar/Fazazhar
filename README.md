@@ -1,22 +1,30 @@
-# Hello, I'm Putra Farrel Azhar
+# Farrel Azhar
 
-### Aspiring Data Scientist | GIS Specialist
+**`Recent Graduate Student at UC San Diego School of Global Policy and Strategy (GPS)`**
 
-I focus on **data-driven solutions** in **causal inference** and **spatial analysis**, combining **machine learning** and **geospatial analytics** to solve urban and policy challenges.
+I'm an aspiring data scientist and GIS specialist focused on developing data-driven solutions in causal inference and spatial analysis. I leverage machine learning and geospatial analytics to tackle urban and policy challenges. My projects include using spatial analysis and semantic segmentation to enhance walkability around trolley stops in San Diego and analyzing the causal relationship between EV charging infrastructure and electric vehicle adoption using instrumental variables. I work with R, Python, and SQL, and I'm skilled in frameworks such as Tidymodels, Scikit-learn, and TensorFlow, along with GIS tools like ArcGIS, Geopandas, and Folium, and data visualization with ggplot2 and Matplotlib.
 
-## 🔍 Current Projects
-- **From Trolley Stops to Walkable Blocks**  
-  Using **spatial analysis** and **semantic segmentation** to improve walkability around trolley stops in San Diego.  
-  [Repo](https://github.com/Fazazhar/Urban-Walkability-GIS-Study)
+<p align="left">
+  <a href="https://www.linkedin.com/in/farrel-azhar-6b8179236/" target="_blank">
+    <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+</p>
 
-- **EV Charging Stations & Electric Vehicle Uptake**  
-  Analyzing the **causal relationship** between charging infrastructure and EV adoption using **instrumental variables**.  
-  [Repo](https://github.com/Fazazhar/EV-Adoption-Causal-Analysis)
+---
+### Languages and Tools
 
-## ⚙️ Skills
-- **Languages:** R, Python, SQL  
-- **Frameworks:** Tidymodels, Scikit-learn, TensorFlow  
-- **GIS:** ArcGIS, Geopandas, Folium  
-- **Visualization:** ggplot2, Matplotlib
+<p align="left">
+  <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+  <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+</p>
+<br />
 
-![Fazazhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fazazhar&show_icons=true&theme=tokyonight)
+
+
+
+
+
+
+
