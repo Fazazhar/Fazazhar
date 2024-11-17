@@ -1,3 +1,4 @@
+![ART](images/ff.png)
 # Farrel Azhar
 
 **`Recent Graduate Student at UC San Diego School of Global Policy and Strategy (GPS)`**
