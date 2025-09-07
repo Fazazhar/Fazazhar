@@ -1,9 +1,16 @@
 ![ART](images/ff.png)
 # Farrel Azhar
 
-**`Recent Graduate Student at UC San Diego School of Global Policy and Strategy (GPS)`**
+**`Manager @ HSBC | Data Analyst & GIS Specialist`**
 
-I'm a data analyst and GIS specialist focused on developing data-driven solutions in causal inference and spatial analysis. I leverage machine learning and geospatial analytics to tackle urban and policy challenges. My projects include using spatial analysis and semantic segmentation to enhance walkability around trolley stops in San Diego and analyzing the causal relationship between EV charging infrastructure and electric vehicle adoption using instrumental variables. I work with R, Python, and SQL, and I'm skilled in frameworks such as Tidymodels, Scikit-learn, and TensorFlow, along with GIS tools like ArcGIS, Geopandas, and Folium, and data visualization with ggplot2 and Matplotlib.
+I am a **Manager at HSBC through the Global Graduate Program**, with a background as a data analyst and GIS specialist. My graduate research bridges **data science, econometrics, and geospatial analytics** to build data-driven solutions for policy and business challenges.  
+
+My projects span **causal inference, spatial analysis, and machine learning**, including:  
+- Using **spatial analysis and semantic segmentation** to enhance walkability around trolley stops in San Diego.  
+- Analyzing the **causal relationship between EV charging infrastructure and EV adoption** using **instrumental variables**.  
+- Applying **machine learning models** (KNN, Ridge, Lasso, Random Forests) and **spatial analytics** to study consumer behavior and public goods distribution.  
+
+I work with **R, Python, and SQL**, and I’m skilled in frameworks such as **Tidymodels, Scikit-learn, TensorFlow, and PyTorch**. My geospatial toolkit includes **ArcGIS, QGIS, Geopandas, Folium, and Google Earth Engine**, with visualization expertise in **ggplot2, Matplotlib, and Plotly**.  
 
 <p align="left">
   <a href="https://www.linkedin.com/in/farrel-azhar-6b8179236/" target="_blank">
